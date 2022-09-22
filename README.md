@@ -15,20 +15,20 @@ The exercise must met the following acceptance criteria (the more, the merrier):
     - kustomize
 4. README file with list of instructions to build and run the proposed solution
 
-Rules:
+**Rules:**
 1. Copy and paste from other sources is permitted, we only require reference to it in the README
 2. All resources required to build/run your solution should be provided
 3. All programming/scripting languages are allowed (e.g. python,javascript,java,go,bash,c++,C#)
 4. You must choose a database type that doesn't require a commercial license for development and runs on containers
 5. We also accept partial solutions
 
-What we look for:
+**What we look for:**
 1. Can follow the instructions you provide to build and run the solution in the README.md
 2. Can build Docker images
 3. Can apply the container orchestration configuration
 4. Can connect to front end application with a web browser and see "hello world, {name}" message
 
-Bonus points:
+**Bonus points:**
 1. Code quality (testing/linting etc.)
 2. Build scripts (e.g. bash, makefile, gradle)
 3. Approach to configuration values (e.g. secret management)
