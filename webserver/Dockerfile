@@ -13,7 +13,7 @@
 #
 # For further information please refer to the Terms and Conditions page:
 #
-# https:#github.com/IONDesktopBus/Terms-and-Conditions
+# https://github.com/ion-group/cloud-engineer-graduate-test/blob/main/terms-and-conditions
 
 
 #FROM - Image to start from.
